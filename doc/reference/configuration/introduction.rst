@@ -5,11 +5,11 @@ Main configuration
 ------------------
 The configuration of OpenXPKI consists of two fundamentally different parts. 
 There is one global system configuration, which holds information about the 
-database, filesystem, etc., where the system lives. The second part is the realm
- configurations, which define the properties of the certificates within the 
- realm. Each PKI realm has its own independent configuration and is isolated 
- from other realms, so you can run instances with different behavior with one 
- single OpenXPKI server.
+database, filesystem, etc., where the system lives. The second part is the realm 
+configurations, which define the properties of the certificates within the 
+realm. Each PKI realm has its own independent configuration and is isolated  
+from other realms, so you can run instances with different behavior with one 
+single OpenXPKI server.
 
 We ship the software with a set of YAML files, and we recommend keeping the 
 given layout. The following documentation uses some notations you should know 
@@ -30,7 +30,7 @@ realm's directory found at ``realm/<name of the realm>``.
 Config versioning
 -----------------
 
-The idea of versioning configs was dropped.  Instead, the configuration file is 
+The idea of config versioning was dropped.  Instead, the configuration file is 
 now read fresh from the filesystem each time the daemon restarts.
 
 Activate the new configuration
