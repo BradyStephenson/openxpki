@@ -1,6 +1,6 @@
 This file lists all people who contributed to the OpenXPKI software.
-If you want to contribute, you must add your name (in alphabetic order)
-to this file. By adding your name, you express your explicit approval
+If you want to contribute, you must add your name (in alphabetic order by last 
+name) to this file. By adding your name, you express your explicit approval
 that your contribution becomes part of the official release under the
 premise of the Apache License 2.0 (see LICENSE).
 
@@ -11,15 +11,15 @@ are the copyright owner of the contributed code or have the explicit
 permission to contribute the code on behalf of the original author.
 
 Authors:
-* Oliver Welter
-* Scott T. Hardin
-* Martin Bartosch
-* Stefano Martinelli
+* Zdeněk Biberle
 * Jens Berthold
+* Martin Bartosch
+* Scott T. Hardin
+* Tomoyuki Kamo
+* Stefano Martinelli
+* Shota Okuhara
 * Alexey Rudenko
 * Gabriel Sailer
-* Shota Okuhara
-* Paweł Tomulik
-* Tomoyuki Kamo
-* Zdeněk Biberle
 * Brady Stephenson
+* Paweł Tomulik
+* Oliver Welter
